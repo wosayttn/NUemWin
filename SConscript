@@ -10,6 +10,8 @@ if GetDepend('PKG_USING_NUEMWIN'):
     print('****************************[NUemWin Notice]***************************')
     print('** Sorry, please download NUemWin package from Nuvoton offical site. **')
     print('** More details, please refer README.md.                             **')
+    print('**                                                                   **')
+    print('** If you already do that, please igrone the notice.                 **')
     print('***********************************************************************')
     print('\n')
 
