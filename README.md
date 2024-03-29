@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-The MA35D1/N9H30/M467 series comes with licensed industrial leading emWin embedded GUI library, which contains emWin library, samples, tools and documents. Nuvoton licensed it from SEGGER to allow developers to create smooth, professional, high quality Human Machine Interfaces ( HMI ) quickly and efficiently on these series free of charge.
+The MA35_Family/N9H30/M467 series comes with licensed industrial leading emWin embedded GUI library, which contains emWin library, samples, tools and documents. Nuvoton licensed it from SEGGER to allow developers to create smooth, professional, high quality Human Machine Interfaces ( HMI ) quickly and efficiently on these series free of charge.
 
 ### **License**
 
@@ -26,14 +26,16 @@ The MA35D1/N9H30/M467 series comes with licensed industrial leading emWin embedd
   | Include  | emWin Header files. |
   | Lib  | Prebuilt libraries |
 
-### **NuMaker-HMI-MA35D1**
+### **NuMaker-HMI-MA35D1/NuMaker-HMI-MA35H0**
 
 - [Download Package](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/?group=Software&tab=2)
 
-  After downloading and extracting **MA35D1_RTThread_emWin_Package.zip**, to copy **MA35D1_RTThread_emWin_Package** folder into **packages** as below.
+  After downloading and extracting **MA35_Family_RTThread_emWin_Package.zip**, to copy **MA35_Family_RTThread_emWin_Package** folder into **packages** as below.
+  The NUemWin package for RT-Thread supports MA35D1, MA35H0 and MA35D0 series.
 
   ```bash
-  <path-to-rtthread>/bsp/nuvoton/numaker-hmi-ma35d1/packages/MA35D1_RTThread_emWin_Package
+  <path-to-rtthread>/bsp/nuvoton/numaker-hmi-ma35d1/packages/MA35_Family_RTThread_emWin_Package
+  <path-to-rtthread>/bsp/nuvoton/numaker-hmi-ma35h0/packages/MA35_Family_RTThread_emWin_Package
   ```
 
 ### **NuMaker-HMI-N9H30**
