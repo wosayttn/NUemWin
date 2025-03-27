@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-The MA35_Family/N9H30/M467 series comes with licensed industrial leading emWin embedded GUI library, which contains emWin library, samples, tools and documents. Nuvoton licensed it from SEGGER to allow developers to create smooth, professional, high quality Human Machine Interfaces ( HMI ) quickly and efficiently on these series free of charge.
+The MA35_Family/N9H30/M467/M55M1/M5531/M2L31 series comes with licensed industrial leading emWin embedded GUI library, which contains emWin library, samples, tools and documents. Nuvoton licensed it from SEGGER to allow developers to create smooth, professional, high quality Human Machine Interfaces ( HMI ) quickly and efficiently on these series free of charge.
 
 ### **License**
 
@@ -56,6 +56,26 @@ The MA35_Family/N9H30/M467 series comes with licensed industrial leading emWin e
 
   ```bash
   <path-to-rtthread>/bsp/nuvoton/numaker-m467hj/packages/M467_RTThread_emWin_Package
+  ```
+
+### **NuMaker-HMI-M55M1**
+
+- [Download Package](TBD)
+
+  After downloading and extracting **M55M1_RTThread_emWin_Package.zip**, to copy **M55M1_RTThread_emWin_Package** folder into **packages** as below.
+
+  ```bash
+  <path-to-rtthread>/bsp/nuvoton/numaker-m55m1/packages/M55M1_RTThread_emWin_Package
+  ```
+
+### **NuMaker-HMI-M2L31**
+
+- [Download Package](TBD)
+
+  After downloading and extracting **M2L31_RTThread_emWin_Package.zip**, to copy **M2L31_RTThread_emWin_Package** folder into **packages** as below.
+
+  ```bash
+  <path-to-rtthread>/bsp/nuvoton/numaker-m2l31/packages/M2L31_RTThread_emWin_Package
   ```
 
 ## **Build**
